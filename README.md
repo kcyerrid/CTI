@@ -123,6 +123,7 @@ Below is the recommended folder structure:
 │   └── PIRs
 ├── 12_Training & Tradecraft/
 │   └── CTI_Methodologies
+├── 97_LLM_Prompts
 ├── 98_News_Articles/
 └── 99_Attachments/
 
