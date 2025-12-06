@@ -1,3 +1,6 @@
+
+![CIPHER Logo](banner.png)
+
 # 🛡️ Cyber Intelligence Playbooks, Hunting, Enrichment, and Reporting (CIPHER)  
 **A Structured, Scalable, and Actionable CTI Knowledge System**
 
